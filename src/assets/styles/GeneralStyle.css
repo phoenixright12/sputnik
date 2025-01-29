@@ -1,0 +1,27 @@
+.list {
+  min-height: 900px;
+  min-width: 300px;
+  background: var(--tgui--secondary_bg_color);
+  padding: 15px;
+}
+
+.yesno__item {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.yesno {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.Select {
+  background: var(--tgui--secondary_bg_color);
+}
+
+.Modal {
+  padding: 15px;
+  height: 400px;
+}

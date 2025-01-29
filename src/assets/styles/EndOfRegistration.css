@@ -1,0 +1,10 @@
+.EndOfReg__link{
+    text-decoration: none;
+}
+
+.EndOfReg__footer {
+    text-align: center; 
+    font-size: 14px;   
+    line-height: 1.5;   
+    /* color: var(--tgui--text_color);  */
+}

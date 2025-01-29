@@ -1,0 +1,15 @@
+.gender{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 10px; 
+}
+
+/* .gender__item{
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+} */
+
+/* .firstSelect{
+    margin-top: 24px;
+} */

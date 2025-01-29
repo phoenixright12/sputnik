@@ -1,0 +1,5 @@
+.List {
+  background: var(--tgui--secondary_bg_color);
+  padding: 15px;
+  height: 100vh;
+}
